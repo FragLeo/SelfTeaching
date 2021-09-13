@@ -1,0 +1,46 @@
+Selflearning Documentary
+
+
+Since I won't be going to school for 8 weeks, and currently don't have a company where I can work and learn at, I have decided to start actively learning/teaching myself new things.
+I have noticed that I can retain information a lot better if I actively write it down somewhere, so I will keep a documentary on topics that I self teach myself. 
+This will mainly be a coding and computer science focused documentary, since that is the field I am looking to work in.
+There are many programming languages, therefore I will try to keep things to how the logic works and not hard coding anything. Code examples will be linked, but not directly in this documentary. Since this is more a resource to teach things to myself, it will not necessarily be written very professionally, instead it will have a more casual tone.
+
+I think it's best to work around a paticular topic at a time, which I might decide that day, or I might lay out a plan with what topic I will work on on what day.
+
+After watching a short video on pathfinding algorithms this morning, I noticed that I hear this word algorithm a lot in programming, but I don't have a concrete understanding what it refers to. So the first topic in this documentary will be algorithms.
+This documentary doesnt need to be about specific topics, just to write down what I learned that day. :)
+
+
+Algorithms
+
+
+First I will give my idea of an algorithm before doing any research on it today:
+
+My idea of an algorithm is a computer program that can be used to solve problems. Anything from very simple problems like solving basic maths equations, to very complex things like the google search system. Typically an algorithm will return a result that it computed through instructions. Thinking about algorithms makes me wonder if this is a good topic because most computer programs seem to be algorithms. Maybe things like, a program that just writes a word document isn't an algorithm?
+
+
+After reading a bit on Wikipedia it seems that an algorithm is a set of instructions to follow that will give a finite result. This means that any computer program is essentially an algorithm. Then why do we specify some computer programs as algorithms? Like pathfinding algorithms, or the youtube algorithm? Seems confusing right now.
+
+Just so I do some actual coding today I will try to code some algorithms from the wikipedia page in python, seems easy enough.
+
+I will be using GitHub to store the code I write for these selflearning entries. 
+The link to the GitHub repository is: https://github.com/FragLeo/SelfTeaching 
+
+I coded the euclidian algorithm which was pretty simple and I coded a bubble sort algorithm which was a bit more complex but still pretty easy to code.
+
+
+
+
+IDEAS FOR LEARNING OR GENERAL CODING PRACTICES
+
+1.  If you have interest in data visualization, try to create a word cloud from a text document. You'll be amazed to see the words that are most frequently used. This encompasses, all the elements including visual design, algorithm for text placement, and fair amount of NLP. If you want to take it to next level, try it with a foreign language (you dont need to know the language, there are many parsers available out there).
+
+
+
+2.  I have a hobby where every now and then I go out and buy one of these cheap booklets with logic puzzles, like sudokus, but there are many other kinds that are equally interesting.. I then get together with a friend, pick a particular puzzle type, and write a computer program to solve all puzzles of that type.
+You should try to do rapid prototyping. Make a solver within a single evening.
+
+(seems complicated tbh, but interesting nonetheless)
+
+ (from https://www.quora.com/Whats-a-fun-algorithm-to-program) 
