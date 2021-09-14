@@ -30,6 +30,23 @@ The link to the GitHub repository is: https://github.com/FragLeo/SelfTeaching
 I coded the euclidian algorithm which was pretty simple and I coded a bubble sort algorithm which was a bit more complex but still pretty easy to code.
 
 
+Sorting Algorithms
+
+
+Today I will try to code some more complex sorting algorithms and compare the different sorting algorithms I code in regards to run time, amount of comparisons needed, etc.
+
+Will be an interesting project, thinking about making a graphical representation of it as well.
+
+
+Also interested in making a small simple physics engine just for giggles shmiles :). But maybe thats for another day :(
+
+
+Well I got massively sidetracked but thats fine.
+I coded... something. Im not sure what to call it, the most basic of gravity simulations I guess. It was pretty fun to code, I learned to use python libraries a bit which is helpful. 
+I used pygame to get a working screen and wrote a basic function to calculate coordinates for points, afterwards had them drawn on the screen. I calculated the velocity by giving each point an oldx and oldy value which we can use to calculate the difference and therefore the velocity. I applied gravity to the y coordinate which makes the points bounce around. Also tested having horizontal gravity and played around with it for a bit. Interested in making actual gravity, the force getting stronger the closer the points are to the ground/ each site. Gravity on every side sounds interesting, only possible with actual gravity simulation. Looking forward to playing around with this. Also want to make the points interact with each other.
+There seems to be some bug where the points just stop bouncing, I believe its because the y and oldy variables are set to the same value at the same interval making the velocity zero. Not sure why or how this happens, well have to figure it out.
+Currently the program only runs on my computer because I am using an image to draw the points and Im too lazy to make it work on other computers right now.
+You can use commented out lines I wrote in the renderPoints function to make it work on your pc, just comment out the screen.blit call and remove the comment# from both of the screen.set_at calls :)))
 
 
 IDEAS FOR LEARNING OR GENERAL CODING PRACTICES
